@@ -5,7 +5,7 @@ Welcome to my Web Development repository! Here, I document my learning journey i
 ## Table of Contents
 
 - [About](#about)
-- [Projects](#projects)
+<!-- - [Projects](#projects) -->
 - [Learning Path](#learning-path)
 - [Contributing](#contributing)
 - [License](#license)
@@ -14,6 +14,7 @@ Welcome to my Web Development repository! Here, I document my learning journey i
 
 This repository serves as a central hub for my web development-related activities. From coding exercises to full-fledged projects, you'll find a variety of content that reflects my journey in mastering the art of web development.
 
+<!--
 ## Projects
 
 ### [Project 1: Project Name](project1/)
@@ -23,7 +24,7 @@ Brief description of the project. Include technologies used, key features, and a
 ### [Project 2: Project Name](project2/)
 
 Brief description of the project. Include technologies used, key features, and a link to the project directory for further details.
-
+-->
 ...
 
 ## Learning Path
